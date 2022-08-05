@@ -6,7 +6,8 @@ Padronizações de nomenclatura de Tabelas e Parâmetros
 # Convenção de Escrita
 * O Banco de Dados como o nome das tabelas e nome de campos devera seguir a convenção snake_case
 * Poderá SER utilizado a escrita em UPPERCASE ou LOWERCASE , porém uma vez adotada, deverá ser utilizada sem variação.
-* [snake_case Style](https://en.wikipedia.org/wiki/Snake_case).
+* [Snake case](https://en.wikipedia.org/wiki/Snake_case).
+* [Screaming snake case](https://www.alura.com.br/artigos/convencoes-nomenclatura-camel-pascal-kebab-snake-case?gclid=Cj0KCQjwuaiXBhCCARIsAKZLt3mpms-3WDGb4LEQXyS-QTErOkyEzIvv67ZgBmoKlfocmNnj66W5ze0aAo-JEALw_wcB)
 
 # Nome de Tabelas
 * Deverá estar no singular, e precedido da sigla TB.
